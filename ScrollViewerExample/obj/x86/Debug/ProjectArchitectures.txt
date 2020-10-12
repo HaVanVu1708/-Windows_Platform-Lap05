@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap05\ScrollViewerExample\ScrollViewerExample.csproj;x86
