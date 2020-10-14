@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap05\GoNuts\GoNuts.csproj;x86
